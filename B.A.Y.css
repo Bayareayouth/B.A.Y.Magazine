@@ -1,7 +1,16 @@
 body { 
-    background: #F8E0F1;
-    border-image: url(images/balloon.jpg) 10px;
+    background: pink;
+  
     
     }
 
-
+h1{
+    color: teal;
+    font-size: 50px;
+}
+H3{
+    color: teal;
+}
+span{
+    color:black;
+}
